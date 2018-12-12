@@ -1,0 +1,24 @@
+div{
+    margin-left: 19em;
+    background-color: lightgray;
+    padding: 17px;
+    width: 50%;
+    border-radius: 4px;
+    position: absolute;
+    top: 25px;
+}
+i{
+    color:#E2377A;
+    float: right;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: x-large;
+}
+input{
+    background-color: lightgray;
+    border: none;
+    font-size: 20px;
+}

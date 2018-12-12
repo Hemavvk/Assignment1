@@ -1,0 +1,20 @@
+img{
+    height: 1em;
+}
+div{
+    margin-left: 12em;
+    position: absolute;
+    top: 50px;
+    font-size: 15px;
+    /* line-height: 1.43; */
+    color:#293030;
+}
+h5{
+    display: inline;
+    font-size: 15px;
+    color: #505763;
+    font-weight: 400;
+    height: 45px;
+    line-height: 20px;
+    padding: 12px 15px;
+}
